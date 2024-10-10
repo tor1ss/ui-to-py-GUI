@@ -1,7 +1,5 @@
-![GitHub top language](https://img.shields.io/github.com/tor1ss/ui-to-py-GUI)
-![GitHub](https://img.shields.io/github.com/tor1ss/ui-to-py-GUI)
-![GitHub Repo stars](https://img.shields.io/github.com/tor1ss/ui-to-py-GUI)
-![GitHub issues](https://img.shields.io/github.com/tor1ss/ui-to-py-GUI)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 # Конвертер UI в Python
 
 ## Краткое описание программы
